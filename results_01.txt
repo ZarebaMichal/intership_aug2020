@@ -1,0 +1,121 @@
+{
+  "name": "Prod1",
+  "summary_value": 7409760
+}
+{
+  "name": "Prod2",
+  "summary_value": 6505740
+}
+{
+  "name": "Prod3",
+  "summary_value": 1747625
+}
+{
+  "name": "Prod4",
+  "summary_value": 1513882
+}
+{
+  "name": "Prod5",
+  "summary_value": 3505356
+}
+{
+  "name": "Prod6",
+  "summary_value": 4842543
+}
+{
+  "name": "Prod7",
+  "summary_value": 178532
+}
+{
+  "name": "Prod8",
+  "summary_value": 4419030
+}
+{
+  "name": "Prod9",
+  "summary_value": 5520816
+}
+{
+  "name": "Prod10",
+  "summary_value": 1390545
+}
+{
+  "name": "Prod1",
+  "amount": 92622,
+  "price": 80
+}{
+  "name": "Prod2",
+  "amount": 72286,
+  "price": 90
+}{
+  "name": "Prod3",
+  "amount": 69905,
+  "price": 25
+}{
+  "name": "Prod4",
+  "amount": 79678,
+  "price": 19
+}{
+  "name": "Prod5",
+  "amount": 56538,
+  "price": 62
+}{
+  "name": "Prod6",
+  "amount": 82077,
+  "price": 59
+}{
+  "name": "Prod7",
+  "amount": 89266,
+  "price": 2
+}{
+  "name": "Prod8",
+  "amount": 66955,
+  "price": 66
+}{
+  "name": "Prod9",
+  "amount": 98586,
+  "price": 56
+}{
+  "name": "Prod10",
+  "amount": 35655,
+  "price": 39
+}{
+  "name": "Prod1",
+  "amount": 92622,
+  "price": 80
+}{
+  "name": "Prod2",
+  "amount": 72286,
+  "price": 90
+}{
+  "name": "Prod3",
+  "amount": 69905,
+  "price": 25
+}{
+  "name": "Prod4",
+  "amount": 79678,
+  "price": 19
+}{
+  "name": "Prod5",
+  "amount": 56538,
+  "price": 62
+}{
+  "name": "Prod6",
+  "amount": 82077,
+  "price": 59
+}{
+  "name": "Prod7",
+  "amount": 89266,
+  "price": 2
+}{
+  "name": "Prod8",
+  "amount": 66955,
+  "price": 66
+}{
+  "name": "Prod9",
+  "amount": 98586,
+  "price": 56
+}{
+  "name": "Prod10",
+  "amount": 35655,
+  "price": 39
+}
